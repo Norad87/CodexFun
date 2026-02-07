@@ -1,0 +1,3 @@
+Key,Source,Context,English,Spanish,French,Italian,German,Turkish,Polish,Brazilian,Japanese,Korean,Russian,Chinese
+cntLockedItemCrate,Blocks,,Locked Item Crate,,,,,,,,,,
+cntLockedItemCrateDesc,Blocks,,A steel-strength crate that locks to the first item type stored and renames itself.,,,,,,,,,,
