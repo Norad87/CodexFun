@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+    <append xpath="/blocks">
+        <block name="cntLockedItemCrate" extends="cntStorageCrateSteel">
+            <property name="CustomIcon" value="cntStorageCrateSteel" />
+            <property name="DescriptionKey" value="cntLockedItemCrateDesc" />
+            <property name="DisplayType" value="storage" />
+            <property name="EconomicValue" value="150" />
+            <property name="LockItemToFirstStack" value="true" />
+            <property name="NameOnLockedItem" value="true" />
+            <property name="Pickup" value="true" />
+            <property name="PickupSkill" value="none" />
+            <property name="PickupMult" value="1" />
+            <property name="PickupTime" value="1" />
+            <property name="AllowPickupFromContainer" value="true" />
+            <property name="CanBeDamaged" value="true" />
+            <property name="ExtendsCreateBlock" value="cntLockedItemCrate" />
+        </block>
+    </append>
+</configs>

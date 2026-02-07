@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <ModInfo>
+        <Name value="Locked Item Crate" />
+        <Description value="Adds a steel-strength crate that locks to the first item type stored and auto-renames itself." />
+        <Author value="Codex" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>
